@@ -1,6 +1,5 @@
 package Sonnenaufgang;
 
-import b.b.F;
 import de.ur.mi.bouncer.apps.BouncerApp;
 import de.ur.mi.bouncer.apps.BouncerLauncher;
 import de.ur.mi.bouncer.world.fields.FieldColor;
